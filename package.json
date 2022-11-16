@@ -1,0 +1,18 @@
+{
+  "name": "vitest-pr-2330",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Robin Mehner <robin@coding-robin.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.25.2"
+  },
+  "stackblitz": {
+    "startCommand": "npm test"
+  }
+}
